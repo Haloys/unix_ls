@@ -1,0 +1,9 @@
+my_ls
+
+.gitignore~
+
+libmy.a
+*.o
+
+*.gcda
+*.gcno
